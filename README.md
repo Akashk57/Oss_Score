@@ -128,6 +128,6 @@ Feel free to open issues or submit pull requests.
 
 ##  Author
 
-Aniket Chaudhary
-Akash Kodali
+* Aniket Chaudhary
+* Akash Kodali
 ---
